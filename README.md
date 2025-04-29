@@ -309,3 +309,4 @@ Content-Type: application/json
 Consumed message: Hello from Kafka producer! from test-topic [0] @1
 ```
 
+![image](https://github.com/user-attachments/assets/6eb79507-42f4-46af-9acf-c61326037a78)
